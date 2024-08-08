@@ -2,9 +2,11 @@
 
 
 **Project Overview**
+
 This project performs Exploratory Data Analysis (EDA) on a COVID-19 dataset for India. The dataset contains details about confirmed cases, cured cases, deaths, and more, categorized by state/union territory and date.
 
 **Dataset**
+
 The dataset covid_19_india.csv includes:
 
 Sno: Serial number
@@ -18,7 +20,9 @@ Deaths: Number of deaths
 Confirmed: Total number of confirmed cases
 
 **Setup**
+
 Load the dataset into a Pandas DataFrame.
+
 Analysis Steps
 Understand the Data: Review the structure, summary statistics, and basic information.
 Data Cleaning: Handle missing values, duplicates, and format dates.
